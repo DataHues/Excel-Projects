@@ -28,7 +28,7 @@ per policy, with payouts categorized into ranges, providing an overview of the m
 
 ## Files
 
-financial_charts.xlsx
+[Financial Charts Excel Workbook](https://github.com/DataHues/Excel-Projects/blob/3aad3673ed410fcddf02d05bc42e1f61d8ba6736/Financial-Charts/financial_charts.xlsx)
 
 ## Usage
 
